@@ -2,6 +2,8 @@
 
 This repository contains the dataset for the paper "Reinforcement-Learning Based Covert Social Influence Operations".
 
+[![DOI](https://zenodo.org/badge/926657211.svg)](https://doi.org/10.5281/zenodo.14795884)
+
 Please cite accordingly:
 
 ```bibtex
